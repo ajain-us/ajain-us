@@ -1,9 +1,6 @@
-# Hey there, I'm Aditya Jain 👋
+# Hey there, I'm Aditya Jain 
+CS + Math student @ University of Maryland  
 
-💻 CS + Math student @ University of Maryland  
-🚀 SAT Tutor @ Amikka Learning (99+ percentile scorer)  
-🌱 Currently learning: Next.js, AI integrations, and advanced algorithms  
-⚡ Fun fact: I’ve taken 12 AP exams and survived to tell the tale 😄  
 
 ---
 
@@ -25,11 +22,6 @@
 
 ---
 
-## ✨ Cool Extras
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7A800&lines=CS+Student;SAT+Tutor;Web+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
-
----
-
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-jain-us5/)
+
