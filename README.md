@@ -1,10 +1,10 @@
-# Hey there, I'm Aditya Jain 
+# Hey there, I'm Aditya Jain ![Car Enthusiast](https://img.shields.io/badge/Car%20Enthusiast-%23FF5733?logo=bmw&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=ajain-us&color=blue&style=flat)
 ![Total Repos](https://img.shields.io/badge/dynamic/json?color=green&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fajain-us)
 ![Followers](https://img.shields.io/github/followers/ajain-us?label=Followers&style=flat&color=orange)
 ![Stars](https://img.shields.io/github/stars/ajain-us?label=Stars&style=flat&color=yellow)
 <br> 
-CS + Math student @ University of Maryland  ![Car Enthusiast](https://img.shields.io/badge/Car%20Enthusiast-%23FF5733?logo=bmw&logoColor=white)
+CS + Math student @ University of Maryland 
 
 ## Languages and tools I use!
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
