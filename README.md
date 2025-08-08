@@ -3,6 +3,7 @@
 ![Total Repos](https://img.shields.io/badge/dynamic/json?color=green&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fajain-us)
 ![Followers](https://img.shields.io/github/followers/ajain-us?label=Followers&style=flat&color=orange)
 ![Stars](https://img.shields.io/github/stars/ajain-us?label=Stars&style=flat&color=yellow)
+\n
 CS + Math student @ University of Maryland  
 
 
