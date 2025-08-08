@@ -1,3 +1,4 @@
+<div align="center">
 # Hey there, I'm Aditya Jain ![Car Enthusiast](https://img.shields.io/badge/Car%20Enthusiast-%23FF5733?logo=bmw&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=ajain-us&color=blue&style=flat)
 ![Total Repos](https://img.shields.io/badge/dynamic/json?color=green&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fajain-us)
@@ -17,4 +18,4 @@ CS + Math student @ University of Maryland
 ## Contacts
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-jain-us5/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajain55@umd.edu)
-
+</div>
