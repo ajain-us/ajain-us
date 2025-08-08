@@ -22,11 +22,17 @@
   <img src="https://img.shields.io/badge/-HTML5-000?&logo=html5" alt="HTML5">
 </p>
 
-<h2>Contacts</h2>
+<h2>Socials</h2>
 
 <p>
   <a href="https://www.linkedin.com/in/aditya-jain-us5/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.youtube.com/@ithinkimaj" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://steamcommunity.com/id/familyhomegame/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Steam-171A21?logo=steam&logoColor=white" alt="Steam">
   </a>
   <a href="mailto:ajain55@umd.edu">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
